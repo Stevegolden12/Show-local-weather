@@ -1,6 +1,33 @@
 {
   "dependencies": {
     "axios": "^0.19.2",
-    "http-server": "^0.12.3"
-  }
+    "http-server": "^0.12.3",
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.1.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-es2016": "^6.24.1",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  },
+  "name": "Show-local-weather",
+  "description": "The app will show the local weather",
+  "version": "1.0.0",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stevegolden12/Show-local-weather.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stevegolden12/Show-local-weather/issues"
+  },
+  "homepage": "https://github.com/Stevegolden12/Show-local-weather#readme"
 }
